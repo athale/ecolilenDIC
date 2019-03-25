@@ -4,8 +4,10 @@ This code is being released as part of a publication under a gnu public license 
 
 Please cite the following reference if you use this in your work:
 
-Title: E. coli Population Cell Length Variability Modeled by Growth Rate Dependent Replication Dynamics
-Authors: Manasi S. Gangan, Hemangi Chaudhari, Shraddha S. Shitut and Chaitanya A. Athale
+Title: Threshold Effect of Growth Rate on Population Variability of Escherichia coli Cell Lengths 
+Journal: Roy. Soc. open science 
+DOI: 10.1098/rsos.160417 22-Feb-2017 
+Authors: Manasi S. Gangan and Chaitanya A. Athale
 
 
 Pre-Requisites
